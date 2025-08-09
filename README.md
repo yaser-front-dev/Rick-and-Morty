@@ -29,6 +29,24 @@
 - src/type/ — تایپ‌ها و اینترفیس‌های TypeScript
 
 
+---
+
+
+## تکنولوژی‌ها
+- React 19
+
+- React Query
+
+- Tailwind CSS
+
+- React Router DOM
+
+- Axios
+
+- TypeScript
+
+- Vite
+
 
 ## شروع سریع
 
