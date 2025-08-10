@@ -45,7 +45,8 @@
 ```bash
 # نصب وابستگی‌ها
 npm install
-
+```
+```bash
 # اجرا در حالت توسعه
 npm run dev
 ```
